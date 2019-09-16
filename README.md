@@ -1,0 +1,2 @@
+This little simulator creates and simulates Markov jump processes. A demon or external many-body control is implemented by letting the per-particle transition rates change between each pair of connected sites.
+The current for the system can be recorded and turned into a large deviation function.
